@@ -121,15 +121,15 @@
         "origin": false
       },
       "eas": {
-        "projectId": "d13607af-e10e-4d66-acac-2fbe9088b3ac"
+        "projectId": ""
       }
     },
-    "owner": "radowan-ahmed",
+    "owner": "",
     "runtimeVersion": {
       "policy": "appVersion"
     },
     "updates": {
-      "url": "https://u.expo.dev/d13607af-e10e-4d66-acac-2fbe9088b3ac",
+      "url": "",
       "fallbackToCacheTimeout": 0,
       "checkAutomatically": "ON_LOAD"
     }
